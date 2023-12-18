@@ -1,2 +1,2 @@
 # gas_sensors
- Documents for mobile gas sensing station
+ Documents related to the mechanical and fluid dynamics analysis for queadruped gas nose
