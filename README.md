@@ -4,8 +4,8 @@
  "gas_visualizer" is the ROS package for gas sensing and victims visualization in the map on RViz
 
  To run the ROS nodes:
- 1. rosrun gas_visualizer gas_markers_v2.py
- 2. rosrun gas_visualizer victims_marker.py
+ * rosrun gas_visualizer gas_markers_v2.py
+ * rosrun gas_visualizer victims_marker.py
 
  Add in RViz the Markers:
  - marker_victima
