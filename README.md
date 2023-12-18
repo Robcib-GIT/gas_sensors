@@ -8,9 +8,9 @@
  -rosrun gas_visualizer victims_marker.py
 
  Add in RViz the Markers:
- -marker_victima
- -marker_co2
- -marker_tvoc
+ - marker_victima
+ - marker_co2
+ - marker_tvoc
 
  This visualization shows the processed information of the three sensors, for visualization of individual measurements, add the following markers in RViz:
  -marker_s1co2
