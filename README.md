@@ -1,3 +1,6 @@
+![CFD Flow2](https://github.com/Robcib-GIT/gas_sensors/assets/57187750/0d94a3e4-5d2a-41d1-90fb-d0548f081acb)
+
+
 # gas_sensors
  Documents related to the mechanical and fluid dynamics analysis for quadruped gas nose
 
